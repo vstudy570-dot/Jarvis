@@ -2,7 +2,7 @@ import telebot
 import random
 import time
 
-bot = telebot.TeleBot("8433260770:AAF3Bk9j1XtQOWH2VJhlUmTlEYNCF8e1aj8")
+bot = telebot.TeleBot("")
 
 OWNER_ID = "@Earner570"
 
